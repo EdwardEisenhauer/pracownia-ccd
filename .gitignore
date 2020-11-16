@@ -1,6 +1,12 @@
 # iraf
 
 login.cl
+logfile
 
 # data
 20-09-22/
+*.fits
+*.png
+
+# python
+__pychache__/
